@@ -1,3 +1,30 @@
+erd
+<img width="803" height="642" alt="image" src="https://github.com/user-attachments/assets/ba9fb8e0-df5f-459d-ac4f-6443fa01d70d" />
+
+struktur controller
+<img width="326" height="406" alt="{6CD4CC4F-A299-466D-B6DD-6288F35347D4}" src="https://github.com/user-attachments/assets/3e6de7c2-e600-41e8-a113-14e1c113400a" />
+
+model
+<img width="325" height="254" alt="{C06EDF60-1890-40E1-BA63-DB9E43C09919}" src="https://github.com/user-attachments/assets/aadbc08d-e0a6-4192-af11-d55265ed5406" />
+
+migrations dan seeder
+<img width="445" height="457" alt="{4E211BF7-32CB-4BC9-8A59-A684148ACCD8}" src="https://github.com/user-attachments/assets/19a69c43-8a28-484c-bdd6-feb94b3f7d56" />
+
+struktur crud
+<img width="453" height="609" alt="{45F6A011-79D8-482A-B6A2-7B0F4022BD0A}" src="https://github.com/user-attachments/assets/92e513aa-bf9f-4366-8982-3a87781f5a82" />
+
+database berserta username dan password
+admin = username : admin@siakad.com
+        password : password123
+user/mahasiswa = username : andi@siakad.com
+                 password : password123
+semua user password nya sama
+<img width="1366" height="768" alt="{7B8BD4D8-393C-4ECA-873C-0AFF6CACBC1F}" src="https://github.com/user-attachments/assets/5757b081-ca78-4e65-a0ef-4a84e098aa9b" />
+
+
+
+
+
 <<<<<<< HEAD
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
