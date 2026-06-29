@@ -19,6 +19,13 @@ SIAKAD adalah aplikasi web berbasis Laravel yang mensimulasikan Sistem Informasi
 - Bootstrap 5
 - Bootstrap Icons
 - Docker (deployment)
+## Akun Default
+
+| Role | Email | Password |
+|------|-------|----------|
+| Admin | admin@siakad.com | password123 |
+| Mahasiswa | andi@siakad.com | password123 |
+| Mahasiswa | syahman@siakad.com | password123 |
 
 <<<<<<< HEAD
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
