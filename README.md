@@ -1,3 +1,25 @@
+# SIAKAD - Sistem Informasi Akademik Sederhana
+
+## Deskripsi Aplikasi
+SIAKAD adalah aplikasi web berbasis Laravel yang mensimulasikan Sistem Informasi Akademik sederhana. Aplikasi ini dirancang untuk membantu pengelolaan data akademik seperti data dosen, mahasiswa, mata kuliah, jadwal perkuliahan, dan Kartu Rencana Studi (KRS). Terdapat dua role pengguna yaitu Admin dan Mahasiswa dengan hak akses yang berbeda.
+
+## Informasi Tugas
+- **Mata Kuliah:** Pemrograman Web II (IF53413)
+- **NPM:** 5520124078
+- **Nama:** M. Andi Safarudin
+- **Kelas:** IF-C24
+
+## Link Hosting
+🌐 **https://tubes-pwl-if-c24-5520124078-m-andi.onrender.com**
+
+## Teknologi yang Digunakan
+- PHP 8.4
+- Laravel 13
+- MySQL (Clever Cloud)
+- Bootstrap 5
+- Bootstrap Icons
+- Docker (deployment)
+
 <<<<<<< HEAD
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
