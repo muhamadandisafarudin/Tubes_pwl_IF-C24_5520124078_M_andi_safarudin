@@ -22,8 +22,7 @@ RUN a2enmod rewrite
 
 EXPOSE 80
 
-CMD bash -c "cp .env.example .env && \
-    php artisan key:generate && \
-    php artisan config:cache && \
+CMD bash -c "php artisan key:generate && \
+    php artisan config:clear && \
     php artisan migrate:fresh --seed --force && \
     apache2-foreground"
